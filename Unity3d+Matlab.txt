@@ -1,0 +1,33 @@
+win10 安装Matlab7
+
+一、准备工作
+1、下载Matlab
+百度云盘链接
+http://pan.baidu.com/s/1i4rzoNz
+
+2、安装MATLAB7
+a、先更改 环境变量 TMP和TEMP
+b、注意setup.exe的兼容性问题
+
+点击setup.exe安装即可
+
+3、运行MATLAB7
+选择兼容性为 Windows Vista（Service Pack 1）
+
+二、MATLAB入门
+1、简单程序 Test1.m
+function Test1()  
+x=-10:0.1:10;  
+y=sin(x);  
+plot(x,y); 
+
+2、编译成功
+
+三、导出DLL 参考 http://wenku.baidu.com/view/f8b14d4a2e3f5727a5e96288.html###
+1、安装Matcom
+
+
+win10安装MATLAB2015
+
+一、准备工作
+1、下载
